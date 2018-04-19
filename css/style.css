@@ -358,16 +358,16 @@ h5,
 .h5 {
   font-size: 1em;
   line-height: 1.85714286em;
-  font-weight: 600; }
+  font-weight: 450; }
   h5:not(:last-child),
   .h5:not(:last-child) {
-    margin-bottom: 0.600842105263158em; }
+    margin-bottom: 0.300842105263158em; }
 
 h6,
 .h6 {
   font-size: 0.85714286em;
   line-height: 2.16666667em;
-  font-weight: 600; }
+  font-weight: lighter; }
   h6:not(:last-child),
   .h6:not(:last-child) {
     margin-bottom: 0.500842105263158em; }
@@ -3430,6 +3430,9 @@ body.device-xs {
 /* ----------------------------------------------------------------
 	Grid Layout
 -----------------------------------------------------------------*/
+.portfolio-item {
+  padding: 5px; }
+
 .grid-layout,
 .portfolioo,
 .posts {
