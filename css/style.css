@@ -3430,9 +3430,6 @@ body.device-xs {
 /* ----------------------------------------------------------------
 	Grid Layout
 -----------------------------------------------------------------*/
-.portfolio-item {
-  padding: 5px; }
-
 .grid-layout,
 .portfolioo,
 .posts {
@@ -4543,7 +4540,7 @@ body.device-xs {
     .post-item .post-video .post-meta-category,
     .post-item .post-audio .post-meta-category,
     .post-item .post-quote-img .post-meta-category {
-      background: #1abc9c;
+      background: #303030;
       color: #ffffff;
       font-size: 13px;
       padding: 2px 16px;
